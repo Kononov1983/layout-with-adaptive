@@ -141,6 +141,12 @@ footer {
     transform: matrix(0.88, -0.47, 0.47, 0.88, 0, 0);
 }
 
+.Ellipse_111 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
 .CONQUEST1 {
     position: absolute;
     width: calc(78 / 2580 * 100vw);
@@ -164,61 +170,15 @@ footer {
     top: calc(35 / 2580 * 100vw);
 }
 
-.n1 {
-    position: absolute;
-    width: calc(11 / 2580 * 100vw);
-    height: calc(9 / 2580 * 100vw);
-    left: calc(54 / 2580 * 100vw);
-    top: calc(2 / 2580 * 100vw);
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: calc(8 / 2580 * 100vw);
-    line-height: calc(9 / 2580 * 100vw);
-    text-align: center;
-    color: #1B1A17;
-    border: 1px solid #1B1A17;
-}
-
-.Ellipse2-2 {
-    position: absolute;
-    width: calc(13 / 2580 * 100vw);
-    height: calc(13 / 2580 * 100vw);
-    left: calc(53 / 2580 * 100vw);
-    top: 0px;
-    background: #E6C8B4;
-}
-
-.Vector {    
-    position: absolute;
-    height: calc(16 / 2580 * 100vw);
-    left: calc(39 / 2580 * 100vw);
-    right: calc(41 / 2580 * 100vw);
-    top: calc(5 / 2580 * 100vw);
-    background: #1B1A17;
-    border: 0.75px solid #1B1A17;
-}
-
-.Vector2 {    
-    position: absolute;
-    height: calc(16 / 2580 * 100vw);
-    left: 91.36%;
-    right: 7.32%;
-    top: calc(5 / 2580 * 100vw);
-    background: #1B1A17;
-}
-
-.Vector3 {    
-    position: absolute;
-    height: calc(16 / 2580 * 100vw);
-    left: 0px;
-    top: calc(5 / 2580 * 100vw);
-    background: #1B1A17;
+.icons_header_111 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .header_main {
     position: absolute;
-    width: calc(408 / 2580 * 100vw);
+    width: calc(428 / 2580 * 100vw);
     height: calc(95 / 2580 * 100vw);
     left: calc(120 / 2580 * 100vw);
     top: calc(321 / 2580 * 100vw);
@@ -300,13 +260,6 @@ footer {
     top: calc(223 / 2580 * 100vw);
 }
 
-.ruble {
-    position: absolute;
-    width: calc(9.6 / 2580 * 100vw);
-    height: calc(13 / 2580 * 100vw);
-    left: calc(65 / 2580 * 100vw);
-    top: calc(3 / 2580 * 100vw);
-}
 
 .text22000 {
     position: absolute;
@@ -406,7 +359,7 @@ footer {
 
 .header2_screen {
     position: absolute;
-    width: calc(306 / 2580 * 100vw);
+    width: calc(326 / 2580 * 100vw);
     height: calc(36 / 2580 * 100vw);
     left: calc(530 / 2580 * 100vw);
     top: calc(79 / 2580 * 100vw);
@@ -494,6 +447,12 @@ footer {
     height: calc(12 / 2580 * 100vw);
     left: calc(552 / 2580 * 100vw);
     top: calc(486 / 2580 * 100vw);
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(12 / 2580 * 100vw);
+    line-height: calc(16 / 2580 * 100vw);
+    color: rgba(27, 26, 23, 0.82);
 }
 
 .header_banner {
@@ -671,6 +630,12 @@ footer {
     left: 0px;
     top: calc(11.87 / 2580 * 100vw);
     transform: rotate(-28.2deg);
+}
+
+.Ellipse__2 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .CONQUEST {
