@@ -496,12 +496,6 @@ footer {
     top: calc(486 / 2580 * 100vw);
 }
 
-.pagination_bannner1 {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
-
 .header_banner {
     position: absolute;
     width: calc(316 / 2580 * 100vw);
@@ -626,6 +620,12 @@ footer {
     height: calc(22.78 / 2580 * 100vw);
     left: calc(99 / 2580 * 100vw);
     top: calc(2544.47 / 2580 * 100vw);
+}
+
+.icons__2 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .photo_2 {
